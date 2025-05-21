@@ -37,3 +37,6 @@ coverage.xml
 
 # VS Code settings
 .vscode/
+
+# Pycharm Settings
+*.idea*
